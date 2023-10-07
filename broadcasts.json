@@ -21,7 +21,7 @@
 	],
 	[
 		"[\"\",{\"text\":\"Make sure to claim your base using either \",\"color\":\"gray\"},{\"text\":\"Flan\",\"color\":\"red\"},{\"text\":\" or\",\"color\":\"gray\"}]",
-		"[\"\",{\"text\":\"FTBChunks\",\"color\":\"red\"},{\"text\":\" (whichever is available). \",\"color\":\"gray\"},{\"text\":\"Ask staff if you need help\",\"color\":\"green\"},{\"text\":\"!\",\"color\":\"gray\"}]"
+		"[\"\",{\"text\":\"FTBChunks\",\"color\":\"red\"},{\"text\":\". \",\"color\":\"gray\"},{\"text\":\"Ask staff if you need help\",\"color\":\"green\"},{\"text\":\"!\",\"color\":\"gray\"}]"
 	],
 	[
 		"[\"\",{\"text\":\"You can buy \",\"color\":\"gray\"},{\"text\":\"cosmetics\",\"color\":\"yellow\"},{\"text\":\", \",\"color\":\"gray\"},{\"text\":\"ranks\",\"color\":\"yellow\"},{\"text\":\", \",\"color\":\"gray\"},{\"text\":\"coins \",\"color\":\"yellow\"},{\"text\":\"and more on our \",\"color\":\"gray\"},{\"text\":\"/store\",\"color\":\"aqua\",\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://store.playsc.eu\"},\"hoverEvent\":{\"action\":\"show_text\",\"contents\":\"Click to run this command\"}},{\"text\":\".\",\"color\":\"gray\"}]",
