@@ -1,6 +1,51 @@
 [	
 	[
-		"[\"\",{\"text\":\"Make sure to \",\"color\":\"gray\"},{\"text\":\"/vote\",\"color\":\"aqua\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/vote\"},\"hoverEvent\":{\"action\":\"show_text\",\"contents\":\"§7Click me to show the vote links\"}},{\"text\":\" every day!\",\"color\":\"gray\"}]",
+		"[\"\",{\"text\":\"Make sure to \",\"color\":\"gray\"},{\"text\":\"/vote\",\"color\":\"aqua\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/vote\"},\"hoverEvent\":{\"action\":\"show_text\",\"contents\":\"Click me to show the vote links\"}},{\"text\":\" every day!\",\"color\":\"gray\"}]",
 		"[\"\",{\"text\":\"Voting gives you a total of \",\"color\":\"gray\"},{\"text\":\"1000\",\"color\":\"green\"},{\"text\":\"\\ue196\"},{\"text\":\" and \",\"color\":\"gray\"},{\"text\":\"8\",\"color\":\"yellow\"},{\"text\":\" vote keys.\",\"color\":\"gray\"}]"
+	],
+	[
+		"{\"text\":\"Wanna be part of our staff team?\",\"color\":\"gray\"}",
+		"[\"\",{\"text\":\"Apply for staff on our \",\"color\":\"gray\"},{\"text\":\"/discord\",\"color\":\"aqua\",\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://discord.gg/stonecraft\"},\"hoverEvent\":{\"action\":\"show_text\",\"contents\":\"Click me to join the discord\"}},{\"text\":\" in \",\"color\":\"gray\"},{\"text\":\"#applications\",\"color\":\"blue\"}]"
+	],
+	[
+		"[\"\",{\"text\":\"Use \",\"color\":\"gray\"},{\"text\":\"/menu\",\"color\":\"aqua\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/menu\"},\"hoverEvent\":{\"action\":\"show_text\",\"contents\":\"Click to run this command\"}},{\"text\":\" to get a brief overview over all\",\"color\":\"gray\"}]",
+		"{\"text\":\"the custom features we have on StoneCraft!\",\"color\":\"gray\"}"
+	],
+	[
+		"[\"\",{\"text\":\"Verify your account in our \",\"color\":\"gray\"},{\"text\":\"/discord\",\"color\":\"aqua\",\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://discord.gg/stonecraft\"},\"hoverEvent\":{\"action\":\"show_text\",\"contents\":\"Click to run this command\"}},{\"text\":\" to get\",\"color\":\"gray\"}]",
+		"[\"\",{\"text\":\"a \",\"color\":\"gray\"},{\"text\":\"special prefix\",\"color\":\"yellow\"},{\"text\":\", access to \",\"color\":\"gray\"},{\"text\":\"gamechat\",\"color\":\"yellow\"},{\"text\":\" channels and \",\"color\":\"gray\"},{\"text\":\"much more\",\"color\":\"yellow\"},{\"text\":\"!\",\"color\":\"gray\"}]"
+	],
+	[
+		"{\"text\":\"Dislike our beautiful messages?\",\"color\":\"gray\"}",
+		"[\"\",{\"text\":\"You can toggle them with \",\"color\":\"gray\"},{\"text\":\"/toggleautobroadcasts\",\"color\":\"aqua\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/toggleautobroadcasts\"},\"hoverEvent\":{\"action\":\"show_text\",\"contents\":\"Click to run this command\"}}]"
+	],
+	[
+		"[\"\",{\"text\":\"Make sure to claim your base using either \",\"color\":\"gray\"},{\"text\":\"Flan\",\"color\":\"red\"},{\"text\":\" or\",\"color\":\"gray\"}]",
+		"[\"\",{\"text\":\"FTBChunks\",\"color\":\"red\"},{\"text\":\" (whichever is available). \",\"color\":\"gray\"},{\"text\":\"Ask staff if you need help\",\"color\":\"green\"},{\"text\":\"!\",\"color\":\"gray\"}]"
+	],
+	[
+		"[\"\",{\"text\":\"You can buy \",\"color\":\"gray\"},{\"text\":\"cosmetics\",\"color\":\"yellow\"},{\"text\":\", \",\"color\":\"gray\"},{\"text\":\"ranks\",\"color\":\"yellow\"},{\"text\":\", \",\"color\":\"gray\"},{\"text\":\"coins \",\"color\":\"yellow\"},{\"text\":\"and more on our \",\"color\":\"gray\"},{\"text\":\"/store\",\"color\":\"aqua\",\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://store.playsc.eu\"},\"hoverEvent\":{\"action\":\"show_text\",\"contents\":\"Click to run this command\"}},{\"text\":\".\",\"color\":\"gray\"},{\"text\":\"\\n \"}]",
+		"[\"\",{\"text\":\"Every little purchases\",\"color\":\"green\"},{\"text\":\" helps us keep the servers running!\",\"color\":\"gray\"}]",
+		"{\"text\":\"Thank you for all of your support \\u263a\",\"color\":\"gold\"}"
+	],
+	[
+		"{\"text\":\"Need help but no staff are online?\",\"color\":\"gray\"}",
+		"[\"\",{\"text\":\"Join our \",\"color\":\"gray\"},{\"text\":\"/discord\",\"color\":\"aqua\",\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://discord.gg/stonecraft\"},\"hoverEvent\":{\"action\":\"show_text\",\"contents\":\"Click to run this command\"}},{\"text\":\" and \",\"color\":\"gray\"},{\"text\":\"make a ticket\",\"color\":\"red\"},{\"text\":\"!\",\"color\":\"gray\"}]"
+	],
+	[
+		"[\"\",{\"text\":\"Join our \",\"color\":\"gray\"},{\"text\":\"/discord\",\"color\":\"aqua\",\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://discord.gg/stonecraft\"},\"hoverEvent\":{\"action\":\"show_text\",\"contents\":\"Click to run this command\"}},{\"text\":\" to \",\"color\":\"gray\"},{\"text\":\"stay up to date with new features\",\"color\":\"yellow\"},{\"text\":\",\",\"color\":\"gray\"}]",
+		"[\"\",{\"text\":\"find friends\",\"color\":\"yellow\"},{\"text\":\", \",\"color\":\"gray\"},{\"text\":\"participate in events\",\"color\":\"yellow\"},{\"text\":\", \",\"color\":\"gray\"},{\"text\":\"get support\",\"color\":\"yellow\"},{\"text\":\" from staff, \",\"color\":\"gray\"},{\"text\":\"and more\",\"color\":\"green\"},{\"text\":\".\",\"color\":\"gray\"}]"
+	],
+	[
+		"[\"\",{\"text\":\"Things looking odd? We have a \",\"color\":\"gray\"},{\"text\":\"custom resource pack\",\"color\":\"yellow\"}]",
+		"[\"\",{\"text\":\"to change a handful of things, click \",\"color\":\"gray\"},{\"text\":\"here\",\"underlined\":true,\"color\":\"aqua\",\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.dropbox.com/sh/kuzodt5uru5eopz/AAAiV03vRhPv6RRC5-K09vIda?dl=1\"},\"hoverEvent\":{\"action\":\"show_text\",\"contents\":\"Click to download the resource pack\"}},{\"text\":\" to download.\",\"color\":\"gray\"}]"
+	],
+	[
+		"[\"\",{\"text\":\"Looking for a team?\",\"color\":\"yellow\"},{\"text\":\" Join our \",\"color\":\"gray\"},{\"text\":\"/discord\",\"color\":\"aqua\",\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://discord.gg/stonecraft\"},\"hoverEvent\":{\"action\":\"show_text\",\"contents\":\"Click to run this command\"}},{\"text\":\" and post\",\"color\":\"gray\"}]",
+		"[\"\",{\"text\":\"\\u200bin \",\"color\":\"gray\"},{\"text\":\"#looking-for-group\",\"color\":\"blue\"},{\"text\":\", you may find someone there.\",\"color\":\"gray\"}]"
+	],
+	[
+		"{\"text\":\"Change the channel you are talking in using\",\"color\":\"gray\"}",
+		"[\"\",{\"text\":\"the command \",\"color\":\"gray\"},{\"text\":\"/channel\",\"color\":\"aqua\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/channel\"},\"hoverEvent\":{\"action\":\"show_text\",\"contents\":\"Click to run this command\"}},{\"text\":\". You can also \",\"color\":\"gray\"},{\"text\":\"hide chat completely\",\"color\":\"red\"},{\"text\":\"!\",\"color\":\"gray\"}]"
 	]
 ]
