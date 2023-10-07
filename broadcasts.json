@@ -34,7 +34,7 @@
 	],
 	[
 		"[\"\",{\"text\":\"Join our \",\"color\":\"gray\"},{\"text\":\"/discord\",\"color\":\"aqua\",\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://discord.gg/stonecraft\"},\"hoverEvent\":{\"action\":\"show_text\",\"contents\":\"Click to run this command\"}},{\"text\":\" to \",\"color\":\"gray\"},{\"text\":\"stay up to date with new features\",\"color\":\"yellow\"},{\"text\":\",\",\"color\":\"gray\"}]",
-		"[\"\",{\"text\":\"find friends\",\"color\":\"yellow\"},{\"text\":\", \",\"color\":\"gray\"},{\"text\":\"participate in events\",\"color\":\"yellow\"},{\"text\":\", \",\"color\":\"gray\"},{\"text\":\"get support\",\"color\":\"yellow\"},{\"text\":\"and more\",\"color\":\"gray\"},{\"text\":\".\",\"color\":\"gray\"}]"
+		"[\"\",{\"text\":\"find friends\",\"color\":\"yellow\"},{\"text\":\", \",\"color\":\"gray\"},{\"text\":\"participate in events\",\"color\":\"yellow\"},{\"text\":\", \",\"color\":\"gray\"},{\"text\":\"get support\",\"color\":\"yellow\"},{\"text\":\" and more\",\"color\":\"gray\"},{\"text\":\".\",\"color\":\"gray\"}]"
 	],
 	[
 		"[\"\",{\"text\":\"Things looking odd? We have a \",\"color\":\"gray\"},{\"text\":\"custom resource pack\",\"color\":\"yellow\"}]",
