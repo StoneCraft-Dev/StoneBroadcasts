@@ -47,5 +47,9 @@
 	[
 		"{\"text\":\"Change the channel you are talking in using\",\"color\":\"gray\"}",
 		"[\"\",{\"text\":\"the command \",\"color\":\"gray\"},{\"text\":\"/channel\",\"color\":\"aqua\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/channel\"},\"hoverEvent\":{\"action\":\"show_text\",\"contents\":\"Click to run this command\"}},{\"text\":\". You can also \",\"color\":\"gray\"},{\"text\":\"hide chat completely\",\"color\":\"red\"},{\"text\":\"!\",\"color\":\"gray\"}]"
+	],
+	[
+		"[\"\",{\"text\":\"If you enjoy the network, please \",\"color\":\"gray\"},{\"text\":\"leave a review\",\"color\":\"yellow\"}]",
+		"{\"text\":\"on our vote pages to give the network more attention \\u263a\",\"color\":\"gray\"}"
 	]
 ]
