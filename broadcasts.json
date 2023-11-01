@@ -38,7 +38,7 @@
 	],
 	[
 		"[\"\",{\"text\":\"Things looking odd? We have a \",\"color\":\"gray\"},{\"text\":\"custom resource pack\",\"color\":\"yellow\"}]",
-		"[\"\",{\"text\":\"to change a handful of things, click \",\"color\":\"gray\"},{\"text\":\"here\",\"underlined\":true,\"color\":\"aqua\",\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.dropbox.com/sh/kuzodt5uru5eopz/AAAiV03vRhPv6RRC5-K09vIda?dl=1\"},\"hoverEvent\":{\"action\":\"show_text\",\"contents\":\"Click to download the resource pack\"}},{\"text\":\" to download.\",\"color\":\"gray\"}]"
+		"[\"\",{\"text\":\"to change a handful of things, click \",\"color\":\"gray\"},{\"text\":\"here\",\"underlined\":true,\"color\":\"aqua\",\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://modrinth.com/mod/stonetextures\"},\"hoverEvent\":{\"action\":\"show_text\",\"contents\":\"Click to download the resource pack mod\"}},{\"text\":\" to download.\",\"color\":\"gray\"}]"
 	],
 	[
 		"[\"\",{\"text\":\"Looking for a team?\",\"color\":\"yellow\"},{\"text\":\" Join our \",\"color\":\"gray\"},{\"text\":\"/discord\",\"color\":\"aqua\",\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://discord.gg/stonecraft\"},\"hoverEvent\":{\"action\":\"show_text\",\"contents\":\"Click to run this command\"}},{\"text\":\" and post\",\"color\":\"gray\"}]",
